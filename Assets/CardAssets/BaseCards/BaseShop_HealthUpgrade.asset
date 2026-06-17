@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ec6330d67948b74e8e600d1a5c43459, type: 3}
+  m_Name: BaseShop_HealthUpgrade
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  description: "\u041C\u0435\u0445\u0430\u043D\u0438\u043A \u0421\u043F\u0435\u0440\u0430\u043D\u0446\u044B
+    \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442 \u0443\u0441\u0438\u043B\u0438\u0442\u044C
+    \u043C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0438\u0439 \u043C\u043E\u0434\u0443\u043B\u044C.
+    \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 \u043F\u043E\u0432\u044B\u0441\u0438\u0442
+    \u0442\u0432\u043E\u0439 \u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u0437\u0434\u043E\u0440\u043E\u0432\u044C\u044F."
+  cardTitle: 
+  bottomInfo: 
+  illustration: {fileID: 21300000, guid: 0d556ca5e26c49849b3bb088ac6bc7fe, type: 3}
+  leftChoice:
+    choiceText: "\u041E\u0442\u043A\u0430\u0437\u0430\u0442\u044C\u0441\u044F"
+    healthDelta: 0
+    staminaDelta: 0
+    resourcesDelta: 0
+    moraleDelta: 0
+    lootDelta: 0
+    timeDelta: 0
+    startRaid: 0
+    endRaid: 0
+    maxHealthDelta: 0
+    maxStaminaDelta: 0
+    progressDelta: 0
+    finalMessage: 
+  rightChoice:
+    choiceText: "Купить за 6 ресурсов"
+    healthDelta: 0
+    staminaDelta: 0
+    resourcesDelta: -6
+    moraleDelta: 0
+    lootDelta: 0
+    timeDelta: 0
+    startRaid: 0
+    endRaid: 0
+    maxHealthDelta: 1
+    maxStaminaDelta: 0
+    progressDelta: 0
+    finalMessage: 
+  isReturnCard: 0
+  isSpecialEvent: 0

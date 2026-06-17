@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ec6330d67948b74e8e600d1a5c43459, type: 3}
+  m_Name: Base_GateWatch
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  description: "\u0423 \u0432\u043D\u0435\u0448\u043D\u0435\u0433\u043E \u0448\u043B\u044E\u0437\u0430
+    \u043D\u0435 \u0445\u0432\u0430\u0442\u0430\u0435\u0442 \u043B\u044E\u0434\u0435\u0439.
+    \u0414\u0435\u0436\u0443\u0440\u043D\u044B\u0435 \u0441\u043F\u043E\u0440\u044F\u0442,
+    \u043A\u043E\u0433\u043E \u043E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0442\u044C
+    \u043D\u0430 \u0432\u0435\u0440\u0445\u043D\u0438\u0439 \u0443\u0440\u043E\u0432\u0435\u043D\u044C,
+    \u0430 \u043A\u0442\u043E \u043E\u0441\u0442\u0430\u043D\u0435\u0442\u0441\u044F
+    \u0434\u0435\u0440\u0436\u0430\u0442\u044C \u0432\u043E\u0440\u043E\u0442\u0430."
+  cardTitle: 
+  bottomInfo: 
+  illustration: {fileID: 21300000, guid: 232c376fabf08014e9b893d562b67208, type: 3}
+  leftChoice:
+    choiceText: "\u041F\u043E\u0434\u043C\u0435\u043D\u0438\u0442\u044C \u0434\u043E\u0437\u043E\u0440\u043D\u043E\u0433\u043E"
+    healthDelta: 0
+    staminaDelta: -1
+    resourcesDelta: 1
+    moraleDelta: 1
+    lootDelta: 0
+    timeDelta: 0
+    startRaid: 0
+    endRaid: 0
+    maxHealthDelta: 0
+    maxStaminaDelta: 0
+    progressDelta: 0
+    finalMessage: 
+  rightChoice:
+    choiceText: "\u0412\u044B\u0439\u0442\u0438 \u043D\u0430\u0432\u0435\u0440\u0445
+      \u0441\u0430\u043C\u043E\u043C\u0443"
+    healthDelta: 0
+    staminaDelta: 0
+    resourcesDelta: 0
+    moraleDelta: 0
+    lootDelta: 0
+    timeDelta: 0
+    startRaid: 1
+    endRaid: 0
+    maxHealthDelta: 0
+    maxStaminaDelta: 0
+    progressDelta: 0
+    finalMessage: 
+  isReturnCard: 0
+  isSpecialEvent: 0

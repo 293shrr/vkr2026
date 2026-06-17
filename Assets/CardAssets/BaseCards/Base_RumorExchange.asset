@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ec6330d67948b74e8e600d1a5c43459, type: 3}
+  m_Name: Base_RumorExchange
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  description: "\u0412 \u043A\u0443\u0440\u0438\u043B\u043A\u0435 \u043E\u0431\u0441\u0443\u0436\u0434\u0430\u044E\u0442
+    \u0441\u043B\u0443\u0445\u0438 \u043E \u043D\u043E\u0432\u044B\u0445 \u0442\u0430\u0439\u043D\u0438\u043A\u0430\u0445
+    \u043D\u0430 \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u0438.
+    \u0417\u0430 \u0445\u043E\u0440\u043E\u0448\u0438\u0435 \u0441\u0432\u0435\u0434\u0435\u043D\u0438\u044F
+    \u0432\u0441\u0435\u0433\u0434\u0430 \u043F\u0440\u0438\u0445\u043E\u0434\u0438\u0442\u0441\u044F
+    \u0447\u0435\u043C-\u0442\u043E \u043F\u043B\u0430\u0442\u0438\u0442\u044C."
+  cardTitle: 
+  bottomInfo: 
+  illustration: {fileID: 21300000, guid: 5ea5eaa8696abb147ad069ad80e4fbb0, type: 3}
+  leftChoice:
+    choiceText: "\u041F\u043E\u0434\u0435\u043B\u0438\u0442\u044C\u0441\u044F \u0441\u0432\u043E\u0438\u043C\u0438
+      \u043D\u0430\u0431\u043B\u044E\u0434\u0435\u043D\u0438\u044F\u043C\u0438"
+    healthDelta: 0
+    staminaDelta: 0
+    resourcesDelta: 0
+    moraleDelta: 1
+    lootDelta: 0
+    timeDelta: 0
+    startRaid: 0
+    endRaid: 0
+    maxHealthDelta: 0
+    maxStaminaDelta: 0
+    progressDelta: 0
+    finalMessage: 
+  rightChoice:
+    choiceText: "\u041A\u0443\u043F\u0438\u0442\u044C \u043D\u0430\u0432\u043E\u0434\u043A\u0443
+      (-1 \u0420\u0415\u0421)"
+    healthDelta: 0
+    staminaDelta: 0
+    resourcesDelta: -1
+    moraleDelta: 0
+    lootDelta: 0
+    timeDelta: 0
+    startRaid: 0
+    endRaid: 0
+    maxHealthDelta: 0
+    maxStaminaDelta: 0
+    progressDelta: 0
+    finalMessage: 
+  isReturnCard: 0
+  isSpecialEvent: 0
